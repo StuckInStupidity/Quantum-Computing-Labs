@@ -1,4 +1,4 @@
-⚛️ Quantum Computings Labs
+# ⚛️ Quantum Computings Labs
 
 This repository contains implementations from seven Quantum Computing Laboratory exercises developed as part of the University of Chicago’s online Quantum Computing program.
 The focus of these labs is on algorithmic quantum computing, exploring how mathematical foundations and quantum principles translate into computational frameworks.
