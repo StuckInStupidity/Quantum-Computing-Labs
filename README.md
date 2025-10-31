@@ -1,8 +1,7 @@
 # ⚛️ Quantum Computings Labs
 
 This repository contains implementations from seven Quantum Computing Laboratory exercises developed as part of the University of Chicago’s online Quantum Computing program.
-The focus of these labs is on algorithmic quantum computing, exploring how mathematical foundations and quantum principles translate into computational frameworks.
-Each lab was implemented in Python using Jupyter Notebook and frameworks such as Qiskit and NumPy, with a focus on quantum circuits experimentation.
+The focus of these labs is on algorithmic quantum computing and quantum circuits experimentation. Each lab was implemented in Python using Jupyter Notebook and frameworks such as Qiskit and NumPy.
 
 📚 Topics Covered
 - Quantum Physics Foundations : Principles behind quantum computer hardware and system design.
@@ -10,3 +9,5 @@ Each lab was implemented in Python using Jupyter Notebook and frameworks such as
 - Qubit States & Measurements : Understanding superposition, entanglement, and quantum state evolution, and the probabilistic nature of measurement outcomes.
 - Quantum Noise & Decoherence : Modeling imperfections and error sources.
 - Mathematical Frameworks for Quantum Physics : Including concepts like linear algebra, complex vector spaces, tensor products, and transformations such as the Quantum Fourier Transform (QFT).
+
+⚙️ Note: Some libraries used are now deprecated
