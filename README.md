@@ -1,6 +1,6 @@
 # ⚛️ Quantum Computings Labs
 
-This repository contains implementations from seven Quantum Computing Laboratory exercises developed as part of the University of Chicago’s online Quantum Computing program.
+This repository contains implementations of seven Quantum Computing Laboratory exercises developed as part of my University of Chicago’s online Quantum Computing program.
 The focus of these labs is on algorithmic quantum computing and quantum circuits experimentation. Each lab was implemented in Python using Jupyter Notebook and frameworks such as Qiskit and NumPy.
 
 📚 Topics Covered
